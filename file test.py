@@ -1,0 +1,10 @@
+firstname=input("Enter your first name")
+lastname=input("Enter your last name")
+studentID=input("Enter ID #")
+
+infile=open("studentinfo.txt",'a')
+infile.write("Name: " + firstname+ " "+ lastname)
+infile.write("\nStudent ID: " + studentID)
+infile.write("\n")
+infile.close()
+print("Done! Data is saved in file: studentInfo.txt")

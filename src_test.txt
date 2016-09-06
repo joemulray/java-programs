@@ -1,0 +1,7 @@
+"\\\\psf\\Home\\Documents\\JCreator LE\\MyProjects\\test\\Exercise\\src\\Exercise.java"
+"\\\\psf\\Home\\Documents\\JCreator LE\\MyProjects\\test\\Exercise\\src\\switch example.java"
+"\\\\psf\\Home\\Documents\\JCreator LE\\MyProjects\\test\\Exercise\\src\\SwitchExample.java"
+"\\\\psf\\Home\\Documents\\JCreator LE\\MyProjects\\test\\SoftwareSalesDemo\\src\\SoftwareSalesDemo.java"
+"\\\\psf\\Home\\Documents\\JCreator LE\\MyProjects\\test\\src\\enum.java"
+"\\\\psf\\Home\\Documents\\JCreator LE\\MyProjects\\test\\src\\SoftwareSales.java"
+"\\\\psf\\Home\\Documents\\JCreator LE\\MyProjects\\test\\src\\test.java"
